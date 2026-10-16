@@ -1,4 +1,4 @@
-//Write a C program to convert Decimal to Binary
+//Write a C program to convert Binary to Decimal
  #include<stdio.h>
  #include<math.h>
  int main()
